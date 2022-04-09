@@ -1,0 +1,2 @@
+# SkillsValue_AI
+coconalaのサイトから案件データをスクレイピングして、報酬を予測するAIを作るプログラム(Python)
