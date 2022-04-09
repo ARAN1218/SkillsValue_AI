@@ -1,0 +1,1 @@
+SkillsValue_AIのpyファイル版ソースコード
